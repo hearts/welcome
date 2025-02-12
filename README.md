@@ -38,4 +38,4 @@ When a project or contributor joins Hearts, we automatically create an onboardin
 
 ## Who's Behind Hearts?
 
-This initiative is led by [@babblebey](https://github.com/babblebey), [@gr2m](https://github.com/gr2m) and [@bdougie](https://github.com/gr2m), all active Open Source maintainers who understand the challenges of visibility and appreciation in community-driven projects. Hearts exists solely to celebrate contributions, foster a culture of gratitude, and make sure every contributor feels valued.
+This initiative is led by [@babblebey](https://github.com/babblebey), [@gr2m](https://github.com/gr2m) and [@bdougie](https://github.com/bdougie), all active Open Source maintainers who understand the challenges of visibility and appreciation in community-driven projects. Hearts exists solely to celebrate contributions, foster a culture of gratitude, and make sure every contributor feels valued.
