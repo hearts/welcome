@@ -2,7 +2,7 @@ Welcome to the Hearts Welcome Repository! 🎉 This is where we track onboarding
 
 ## About Hearts
 
-[<u>Hearts</u>](https://github.com/hearts) is a project by Open Source maintainers for Open Source maintainers and contributors. Our goal is to bring more recognition to contributors by tracking and notifying them of the ❤️ reactions they receive on their contributions across participating projects.
+[<u>Hearts</u>](https://www.hearts.dev) is a project by Open Source maintainers for Open Source maintainers and contributors. Our goal is to bring more recognition to contributors by tracking and notifying them of the ❤️ reactions they receive on their contributions across participating projects.
 
 ## What This Repository Is For
 
@@ -24,9 +24,10 @@ When a project or contributor joins Hearts, we automatically create an onboardin
 
 ### Contributor Onboarding
 
-* When you sign up, an onboarding issue is created for you here.
-* You will receive a private GitHub repository where Hearts will notify you of new reactions to your contributions.
-* Follow the steps in your onboarding issue to complete the process.
+* Once project onboarding is complete, an onboarding issue is created for contributors here.
+* This issue invites contributors to sign-up for Hearts. 
+* Contributors who sign up will receive notifications about ❤️ reactions on their contributions to participating projects.
+* The issue also serves as a communication channel between contributors and the Hearts team.
 
 ## Get Started
 
